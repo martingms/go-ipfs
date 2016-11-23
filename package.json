@@ -299,6 +299,12 @@
       "hash": "QmaFNtBAXX4nVMQWbUqNysXyhevUj1k4B1y5uS45LC7Vw9",
       "name": "fuse",
       "version": "0.1.3"
+    },
+    {
+      "author": "jbenet",
+      "hash": "QmdJrEas3iBogrrzriSuoP3NiANr2JvUc2b2kX1p4tGoE2",
+      "name": "go-random",
+      "version": "1.0.0"
     }
   ],
   "gxVersion": "0.4.0",

@@ -11,7 +11,7 @@ import (
 	"time"
 
 	context "context"
-	random "github.com/ipfs/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random"
+	random "gx/ipfs/QmdJrEas3iBogrrzriSuoP3NiANr2JvUc2b2kX1p4tGoE2/go-random"
 
 	"github.com/ipfs/go-ipfs/core"
 	coreunix "github.com/ipfs/go-ipfs/core/coreunix"
