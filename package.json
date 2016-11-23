@@ -305,6 +305,12 @@
       "hash": "QmdJrEas3iBogrrzriSuoP3NiANr2JvUc2b2kX1p4tGoE2",
       "name": "go-random",
       "version": "1.0.0"
+    },
+    {
+      "author": "mitchellh",
+      "hash": "QmdcULN1WCzgoQmcCaUAmEhwcxHYsDrbZ2LvRJKCL8dMrK",
+      "name": "go-homedir",
+      "version": "1.0.0"
     }
   ],
   "gxVersion": "0.4.0",
